@@ -1,6 +1,6 @@
 # 🏦 BankMCP: Secure Model Context Protocol Banking Gateway
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: BSL 1.1](https://img.shields.io/badge/License-BSL%201.1-blue.svg)](LICENSE)
 [![Organization: RMAA Holdings](https://img.shields.io/badge/Organization-RMAA%20Holdings-purple.svg)](https://github.com/RMAAPK)
 [![Framework: FastMCP](https://img.shields.io/badge/Framework-FastMCP%20TypeScript-teal.svg)](https://github.com/punkpeye/fastmcp)
 [![Security: DMCPS Hardened](https://img.shields.io/badge/Security-DMCPS%20Grade%20Interceptor-red.svg)](https://github.com/RMAAPK/dmcps)
