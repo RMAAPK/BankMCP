@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/*.json
+!data/default_accounts.json
+.env
+*.log
+.DS_Store
+

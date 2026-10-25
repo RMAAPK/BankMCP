@@ -1,0 +1,30 @@
+{
+  "name": "bank-mcp",
+  "version": "1.0.0",
+  "description": "Secure Model Context Protocol (MCP) Banking Server with DMCPS-grade Dashboard Controls and Spending Rails",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "test": "node --test dist/test/*.test.js"
+  },
+  "keywords": ["mcp", "fastmcp", "banking", "dmcps", "fintech", "ai-agent", "security"],
+  "author": "RMAA Holdings",
+  "license": "MIT",
+  "dependencies": {
+    "fastmcp": "^4.23.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "express-rate-limit": "^7.5.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.4",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}
+
