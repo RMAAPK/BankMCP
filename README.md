@@ -1,5 +1,8 @@
 # 🏦 BankMCP: Secure Model Context Protocol Banking Gateway
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23859302.svg)](https://doi.org/10.5281/zenodo.23859302)
+
+
 [![License: BSL 1.1](https://img.shields.io/badge/License-BSL%201.1-blue.svg)](LICENSE)
 [![Organization: RMAA Holdings](https://img.shields.io/badge/Organization-RMAA%20Holdings-purple.svg)](https://github.com/RMAAPK)
 [![Framework: FastMCP](https://img.shields.io/badge/Framework-FastMCP%20TypeScript-teal.svg)](https://github.com/punkpeye/fastmcp)
